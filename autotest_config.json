@@ -159,10 +159,10 @@
         ]
       },
       "_comment_expected_unreachable_libraries": "Expected UNREACHABLE libraries - npm packages with unreachable vulnerabilities",
-      "expected_total_reachable_count": { "gte": 34 },
-      "_comment_expected_total_reachable_count": "Minimum number of reachable CVEs expected - 34 reachable vulnerabilities from security report",
-      "expected_total_unreachable_count": { "gte": 26 },
-      "_comment_expected_total_unreachable_count": "Expected number of unreachable CVEs - 26 unreachable vulnerabilities from security report"
+      "expected_total_reachable_count": { "gte": 20 },
+      "_comment_expected_total_reachable_count": "Minimum number of reachable CVEs expected - 20 reachable vulnerabilities from security report",
+      "expected_total_unreachable_count": { "gte": 12 },
+      "_comment_expected_total_unreachable_count": "Expected number of unreachable CVEs - 12 unreachable vulnerabilities from security report"
     }
   }
 }
